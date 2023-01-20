@@ -446,5 +446,6 @@ transform: translate(-50%,-50%);
         justify-content: flex-start;
         opacity: 0;
         transform: translateY(15px);
+        height: 200px;
     }
 }
