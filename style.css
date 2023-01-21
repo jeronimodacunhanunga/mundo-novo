@@ -86,6 +86,7 @@ text-align: center;
 
 .open:hover{
     background-color:  #60b5dfbe;
+    color:white;
 }
 .text {
 display: flex;
